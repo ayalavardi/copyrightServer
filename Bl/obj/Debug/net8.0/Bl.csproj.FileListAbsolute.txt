@@ -1,0 +1,39 @@
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.deps.json
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.dll
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.pdb
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Dal.dll
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Dto.dll
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Dal.pdb
+D:\Copy-Right\שרת\CopyRight\Bl\bin\Debug\net8.0\Dto.pdb
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.dll
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\refint\Bl.dll
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.pdb
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+D:\Copy-Right\שרת\CopyRight\Bl\obj\Debug\net8.0\ref\Bl.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Bl\obj\Debug\net8.0\ref\Bl.dll

@@ -1,0 +1,29 @@
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\Copy-Right\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\Copy-Right\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\Copy-Right\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.dll
+D:\Copy-Right\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.pdb
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.dll
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.pdb
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\Copy-Right\שרת\CopyRight\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dal\obj\Debug\net8.0\ref\Dal.dll

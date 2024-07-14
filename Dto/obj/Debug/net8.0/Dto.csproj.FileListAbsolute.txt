@@ -1,0 +1,35 @@
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.deps.json
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.runtimeconfig.json
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.dll
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.pdb
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dal.dll
+D:\Copy-Right\שרת\CopyRight\Dto\bin\Debug\net8.0\Dal.pdb
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.Up2Date
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.dll
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\refint\Dto.dll
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.pdb
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
+D:\Copy-Right\שרת\CopyRight\Dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.runtimeconfig.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.sourcelink.json
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.csproj.Up2Date
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\Dto.genruntimeconfig.cache
+C:\Users\This User\Desktop\שרת\CopyRight\Dto\obj\Debug\net8.0\ref\Dto.dll
